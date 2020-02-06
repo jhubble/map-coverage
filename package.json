@@ -1,0 +1,22 @@
+{
+  "name": "map-coverage",
+  "version": "1.0.0",
+  "description": "Show coverage area of map",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhubble/map-coverage.git"
+  },
+  "author": "Jeremy Hubble",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhubble/map-coverage/issues"
+  },
+  "homepage": "https://github.com/jhubble/map-coverage#readme",
+  "dependencies": {
+    "leaflet": "^1.5.1"
+  }
+}
